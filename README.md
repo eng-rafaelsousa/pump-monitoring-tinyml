@@ -42,4 +42,4 @@ O sistema foi projetado para elevar o **MTBF (Mean Time Between Failures)** atra
 
 
 ---
-*Pesquisa e desenvolvimento baseados no artigo "Monitoramento inteligente em bombas hidráulicas utilizando machine learn embarcado", apresentado no Universo IF 2025.*
+*Pesquisa e desenvolvimento baseados no artigo "Monitoramento inteligente em bombas hidráulicas utilizando machine learning embarcado", apresentado no Universo IF 2025.*
